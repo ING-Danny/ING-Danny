@@ -7,7 +7,7 @@
 
 <!-- Sección "About Me" -->
 ## 🚀 About Me  
-👋 Hi, I'm Danny Moreno, a passionate **Telecommunications Engineer** specializing in **Networks & Cybersecurity**.  
+👋 Hi, I'm Danny Yepes, a passionate **Telecommunications Engineer** specializing in **Networks & Cybersecurity**.  
 🔍 I’m currently diving deep into **LoRa networks and security protocols**.  
 💡 I enjoy solving complex problems and optimizing network performance.  
 ⚡ Fun fact: I love **tech gadgets** and **building smart IoT solutions**.  
