@@ -1,9 +1,3 @@
-<!-- Encabezado con texto animado -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=HI,+I'M+DANNY+👋" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- Sección "About Me" -->
 ## 🚀 About Me  
